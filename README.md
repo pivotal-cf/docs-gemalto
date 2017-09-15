@@ -1,4 +1,6 @@
-## Pivotal Cloud Foundry Partners Template
+## Obsolete: Pivotal Cloud Foundry Partners Template
+
+This repo is replaced by https://github.com/pivotal-cf/docs-partners-template
 
 This template helps partners prepare documentation for Pivotal Cloud Foundry (PCF) partner services that appear on [Pivotal Network](https://network.pivotal.io/). 
 
